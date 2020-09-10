@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace sntnhohon100
 {
@@ -6,8 +6,8 @@ namespace sntnhohon100
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nhập n :");
-            int n = int.Parse(Console.ReadLine());
+            
+            int n = 100;
             hienthi(n);
             Console.ReadLine();
         }
